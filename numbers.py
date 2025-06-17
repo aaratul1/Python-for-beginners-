@@ -1,1 +1,0 @@
-print('ratul dada crazy')
