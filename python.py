@@ -17,3 +17,18 @@ x = 5
 y = "John"
 print(type(x))
 print(type(y))
+
+#Single or Double Quotes?
+
+x = "John"
+  # is the same as
+x = 'John'
+print(x)
+
+
+#Case-Sensitive
+a = 4
+A = "Sally"
+#A will not overwrite a
+print(a)
+print(A)
